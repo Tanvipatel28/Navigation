@@ -1,0 +1,72 @@
+span {
+    color: red;
+}
+  .a {
+          float: inline-end;
+          text-align: center;
+
+  }
+.header {
+        overflow: hidden;
+        background-color: red;
+        padding: 15px 10px;
+
+}
+.box1 a {
+         float: left;
+         color: white;
+         text-align: center;
+         padding: 5px;
+         text-decoration: none;
+         font-size: 20px;
+         line-height: 20px;
+         border-radius: 4px;
+}
+
+.box2 {
+         
+    /* background-color:red;*/
+    text-align: end;
+    display: flex;
+    float: inline-end;
+
+}
+.box2 a {
+          font-size: 1rem;
+          color: white;
+          text-decoration: none;
+          text-align: center;
+          padding: 12px;
+          font-size: 12px;
+          line-height: 10px;
+
+
+}
+.number {
+    text-align: end;
+    margin-left: 57rem;
+   }
+   .top{
+    display: flex;
+    justify-content: space-between;
+   }
+   .search input {
+              background-color: white;
+              font-size: 1rem;
+              padding: 5px;
+            
+   }
+   .left{
+    display: flex;
+    margin-left: 20px;
+   }
+   .left i{
+    color: red;
+    margin-right: 10px;
+   }
+   .right {
+      margin-right:75px ;
+
+   }
+
+
